@@ -1,0 +1,6 @@
+G:\ADVANCED .NET-FINAL\BEL\bin\Debug\BEL.dll
+G:\ADVANCED .NET-FINAL\BEL\bin\Debug\BEL.pdb
+G:\ADVANCED .NET-FINAL\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+G:\ADVANCED .NET-FINAL\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+G:\ADVANCED .NET-FINAL\BEL\obj\Debug\BEL.dll
+G:\ADVANCED .NET-FINAL\BEL\obj\Debug\BEL.pdb
