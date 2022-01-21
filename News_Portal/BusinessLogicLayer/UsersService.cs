@@ -9,7 +9,7 @@ using AutoMapper;
 
 namespace BusinessLogicLayer
 {
-    class UsersService
+    public class UsersService
     {
         public static List<NewsModel> GetAll()
         {
